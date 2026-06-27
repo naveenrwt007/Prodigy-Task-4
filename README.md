@@ -1,19 +1,22 @@
+# Prodigy-Task-4
+
 # 💼 Personal Portfolio Website
 
-A responsive portfolio website showcasing personal information, technical skills, projects, education, and contact details.
+A modern, fully responsive **Personal Portfolio Website** built using **HTML, CSS, and JavaScript**. The website showcases skills, projects, education, experience, and contact information through an elegant and professional interface.
 
 ---
 
-## 🚀 Features
+## 📌 Features
 
-- Hero section
-- About section
-- Skills section
-- Projects showcase
-- Contact section
-- Responsive navigation
-- Smooth scrolling
-- Mobile-friendly design
+- 👤 Professional Home Section
+- 📖 About Me
+- 🛠️ Skills Showcase
+- 💼 Projects Section
+- 🎓 Education Timeline
+- 📞 Contact Section
+- 📱 Responsive Design
+- ✨ Smooth Animations
+- 🌐 Social Media Links
 
 ---
 
@@ -21,14 +24,14 @@ A responsive portfolio website showcasing personal information, technical skills
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (ES6)
 
 ---
 
 ## 📂 Project Structure
 
-```
-Prodigy-Task-4/
+```text
+Personal-Portfolio/
 │
 ├── index.html
 ├── style.css
@@ -39,30 +42,91 @@ Prodigy-Task-4/
 
 ---
 
-## ▶️ Getting Started
+# 🚀 Getting Started
+
+## Clone the Repository
 
 ```bash
-git clone https://github.com/naveenrwt007/Prodigy-Task-4.git
+git clone https://github.com/your-username/personal-portfolio.git
 ```
 
-Open `index.html`.
+## Open the Project
+
+```bash
+cd personal-portfolio
+```
+
+Open **index.html** in your browser.
 
 ---
 
-## 📱 Responsive
+# 🎮 Website Sections
 
-Works on:
+- Home
+- About
+- Skills
+- Projects
+- Education
+- Contact
+
+---
+
+# 📸 Website Preview
+
+Includes:
+
+- Hero Banner
+- Skills Cards
+- Project Gallery
+- Contact Form
+- Footer
+- Responsive Navigation
+
+---
+
+# 📱 Responsive Design
+
+Optimized for:
 
 - Desktop
+- Laptop
 - Tablet
 - Mobile
 
 ---
 
-## 👨‍💻 Author
+# ⚙️ Website Highlights
 
-Naveen Singh Rawat
+- Responsive Navigation
+- CSS Animations
+- Smooth Scrolling
+- Modern Layout
+- Interactive Cards
 
 ---
 
-## ⭐ Don't forget to star the repository.
+# 🌟 Future Improvements
+
+- 🌙 Dark Mode
+- 📄 Download Resume
+- 📝 Blog Section
+- 🌐 Multi-language Support
+- 📧 Email Integration
+
+---
+
+# 👨‍💻 Author
+
+**Naveen Singh Rawat**
+
+---
+
+# 📄 License
+
+Licensed under the MIT License.
+
+---
+
+# ⭐ Support
+
+If you found this project helpful, consider giving it a ⭐ on GitHub.
